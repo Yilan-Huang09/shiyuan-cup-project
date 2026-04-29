@@ -1,0 +1,6 @@
+{
+  "name": "Aurora Classroom",
+  "description": "基于多智能体协作与 RAG 技术的智慧课堂交互演示系统，支持物理教学碰撞模拟、知识卡片白板、Agent 团队对话。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["multi-agent-chat", "interactive-simulator", "knowledge-board", "rag-source-drawer"]
+}
